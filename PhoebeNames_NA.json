@@ -1,0 +1,317 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "PhoebeNames_NA",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'FortAthenaAIBotNameDataTableRow'",
+        "ObjectPath": "/Script/FortniteGame"
+      },
+      "bStripFromClientBuilds": true,
+      "bIgnoreMissingFields": true
+    },
+    "Rows": {
+      "1": {
+        "Name": "MaoonyEstPtit"
+      },
+      "2": {
+        "Name": "FdpDeFlan"
+      },
+      "3": {
+        "Name": "Tototiste"
+      },
+      "4": {
+        "Name": "Sweefyssedepute"
+      },
+      "5": {
+        "Name": "JaimeLeBeurre"
+      },
+      "6": {
+        "Name": "Vanvanze"
+      },
+      "7": {
+        "Name": "SalePute"
+      },
+      "8": {
+        "Name": "Iz0lardon"
+      },
+      "9": {
+        "Name": "PosLobaise"
+      },
+      "10": {
+        "Name": "KinderSiblaz"
+      },
+      "11": {
+        "Name": "669Hitler"
+      },
+      "12": {
+        "Name": "Swifi"
+      },
+      "13": {
+        "Name": "Suiiiiiii"
+      },
+      "14": {
+        "Name": "dsc.gg/siblaz"
+      },
+      "15": {
+        "Name": "dsc.gg/raiju"
+      },
+      "16": {
+        "Name": "RaijuLaden"
+      },
+      "17": {
+        "Name": "LeSacDeSquicks"
+      },
+      "18": {
+        "Name": "GrosGayVaaa"
+      },
+      "19": {
+        "Name": "TripleMonstre"
+      },
+      "20": {
+        "Name": "Coucouuuuu"
+      },
+      "21": {
+        "Name": "AlloAlteaxCv"
+      },
+      "22": {
+        "Name": "MiaKhalifa"
+      },
+      "23": {
+        "Name": "TotoRhoades"
+      },
+      "24": {
+        "Name": "RebootBot69"
+      },
+      "25": {
+        "Name": "Sheirlou"
+      },
+      "26": {
+        "Name": "Aloucouille"
+      },
+      "27": {
+        "Name": "Jennarabe"
+      },
+      "28": {
+        "Name": "Tie1BzLeS"
+      },
+      "29": {
+        "Name": "JUL"
+      },
+      "30": {
+        "Name": "GrosFadaVaaa"
+      },
+      "31": {
+        "Name": "Beamo"
+      },
+      "32": {
+        "Name": "Broca"
+      },
+      "33": {
+        "Name": "Gm09"
+      },
+      "34": {
+        "Name": "Ayzox"
+      },
+      "35": {
+        "Name": "SalutNazi"
+      },
+      "36": {
+        "Name": "Eric Zemmour"
+      },
+      "37": {
+        "Name": "Camimuse"
+      },
+      "38": {
+        "Name": "ZefanBoi"
+      },
+      "39": {
+        "Name": "Jinsgros"
+      },
+      "40": {
+        "Name": "MaoonySexToto"
+      },
+      "41": {
+        "Name": "Zeubi"
+      },
+      "42": {
+        "Name": "Talmo"
+      },
+      "43": {
+        "Name": "Tete De Neuille"
+      },
+      "44": {
+        "Name": "ZobHumideFRRR"
+      },
+      "45": {
+        "Name": "Abbateur2Feuj"
+      },
+      "46": {
+        "Name": "SamGrateLesCouilles"
+      },
+      "47": {
+        "Name": "DantePhesse"
+      },
+      "48": {
+        "Name": "SuceMaBite"
+      },
+      "49": {
+        "Name": "Enculeur2Mamie"
+      },
+      "50": {
+        "Name": "RaijuVirginie"
+      },
+      "51": {
+        "Name": "Ronaldo"
+      },
+      "52": {
+        "Name": "Messi"
+      },
+      "53": {
+        "Name": "Gemroz"
+      },
+      "54": {
+        "Name": "MaBiteSensLaPizza"
+      },
+      "55": {
+        "Name": "Quoicoubeh"
+      },
+      "56": {
+        "Name": "FEUR"
+      },
+      "57": {
+        "Name": "GrosZobDansLeQ"
+      },
+      "58": {
+        "Name": "AthenaOrApollo"
+      },
+      "59": {
+        "Name": "AtomicTerr√≤r"
+      },
+      "60": {
+        "Name": "AttackOLantern"
+      },
+      "61": {
+        "Name": "AngryDuck51"
+      },
+      "62": {
+        "Name": "Atomizer5"
+      },
+      "63": {
+        "Name": "AyeBall23"
+      },
+      "64": {
+        "Name": "AngelEye30"
+      },
+      "65": {
+        "Name": "Primefall44"
+      },
+      "66": {
+        "Name": "Armstrong78"
+      },
+      "67": {
+        "Name": "Baethal"
+      },
+      "68": {
+        "Name": "BabySeahorse81"
+      },
+      "69": {
+        "Name": "StoneDragon61"
+      },
+      "70": {
+        "Name": "Back2Work61"
+      },
+      "71": {
+        "Name": "DarkTarget12"
+      },
+      "72": {
+        "Name": "Bag0Hammers"
+      },
+      "73": {
+        "Name": "GerbilTrapeze"
+      },
+      "74": {
+        "Name": "BadKahuna94"
+      },
+      "75": {
+        "Name": "BananaPastrami"
+      },
+      "76": {
+        "Name": "Banandana82"
+      },
+      "77": {
+        "Name": "BattleHammer7"
+      },
+      "78": {
+        "Name": "ToxicTropic"
+      },
+      "79": {
+        "Name": "BagelBoy82"
+      },
+      "80": {
+        "Name": "Balefire81"
+      },
+      "81": {
+        "Name": "JonesyWannabe46"
+      },
+      "82": {
+        "Name": "Barktooth81"
+      },
+      "83": {
+        "Name": "Beebitme"
+      },
+      "84": {
+        "Name": "SlothLife16"
+      },
+      "85": {
+        "Name": "BeepGoesBeep"
+      },
+      "86": {
+        "Name": "Represent82"
+      },
+      "87": {
+        "Name": "BearPuns55"
+      },
+      "88": {
+        "Name": "Belltop"
+      },
+      "89": {
+        "Name": "BertIsNice"
+      },
+      "90": {
+        "Name": "BeeHive7"
+      },
+      "91": {
+        "Name": "BetaChampion"
+      },
+      "92": {
+        "Name": "BehindYou60"
+      },
+      "93": {
+        "Name": "BellyFlop40"
+      },
+      "94": {
+        "Name": "BioDragoon"
+      },
+      "95": {
+        "Name": "BeefSupreme35"
+      },
+      "96": {
+        "Name": "BitOJoy"
+      },
+      "97": {
+        "Name": "BillyBrilliant23"
+      },
+      "98": {
+        "Name": "BigBuddy15"
+      },
+      "99": {
+        "Name": "BlinkImGone44"
+      },
+      "100": {
+        "Name": "Blizzardbeard77"
+      }
+    }
+  }
+]
